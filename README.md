@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Md. Siyam Miajee 👋
 
-<!--
-**siyam-miajee/siyam-miajee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student @ East West University
 
-Here are some ideas to get you started:
+I'm a CSE student currently learning programming and building my fundamentals step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 CSE Student at East West University
+- 💻 Currently learning C Programming
+- 🌱 Improving my programming & problem-solving skills
+- 🚀 Learning and growing one step at a time
+
+### 🛠️ Currently Learning
+
+- C Programming
+- Programming Fundamentals
+- Problem Solving
+- Git & GitHub
+
+### 🎯 Goals
+
+- Build strong programming fundamentals
+- Learn Data Structures & Algorithms
+- Build projects as I learn
+- Explore different areas of Computer Science
+
+---
+
+⭐ Thanks for visiting my profile!
